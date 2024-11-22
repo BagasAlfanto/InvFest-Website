@@ -1,11 +1,3 @@
-<nav class="navbar">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">
-        <h4><img src="{{ asset('img/logoatas.png') }}" alt="Logo" width="30" height="24" > Invfest Website</h4>
-      </a>
-    </div>
-  </nav>
-
 <div class="sidebar">
     <nav class="nav flex-column">
         <a href="" class="nav-link">

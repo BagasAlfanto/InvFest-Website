@@ -1,14 +1,6 @@
-.navbar {
-    margin-left: 250px;
-    height: 80px;
-    background: #072138;
-    color: #fff;
-}
-.navbar .navbar-brand{
-    color: #fff;
-}
-.navbar .img{
 
+.content {
+    padding-top: 300px;
 }
 
 .sidebar {
@@ -84,3 +76,24 @@
 
 }
 
+.mid {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+}
+
+.login-card {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-control:focus {
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}

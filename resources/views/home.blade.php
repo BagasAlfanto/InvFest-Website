@@ -10,9 +10,9 @@
   </head>
   <body>
 
-    {{-- Start Navbar --}}
+    {{-- Start Sidebar --}}
     @include('partials.sidebar')
-    {{-- End Navbar --}}
+    {{-- End Sidebar --}}
 
     {{-- Content --}}
     <div class="main-content">
